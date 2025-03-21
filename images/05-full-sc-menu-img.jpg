@@ -1,0 +1,775 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+				
+			<meta property="og:url" content="https://cinerama.qodeinteractive.com/elementor/wp-content/themes/cinerama/assets/css/https:/cinerama.qodeinteractive.com/elementor/wp-content/uploads/2018/05/full-sc-menu-img.jpg"/>
+			<meta property="og:type" content="article"/>
+			<meta property="og:title" content="Cinerama"/>
+			<meta property="og:description" content="A Theme for Movie Studios and Filmmakers"/>
+			<meta property="og:image" content="https://cinerama.qodeinteractive.com/elementor/wp-content/uploads/2019/04/open_graph.jpg"/>
+		
+		
+		<meta charset="UTF-8"/>
+		<link rel="profile" href="https://gmpg.org/xfn/11" />
+		
+				<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=yes">
+		<title>Page not found &#8211; Cinerama</title>
+<meta name='robots' content='max-image-preview:large' />
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><link rel='dns-prefetch' href='//export.qodethemes.com' />
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Cinerama &raquo; Feed" href="https://cinerama.qodeinteractive.com/elementor/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Cinerama &raquo; Comments Feed" href="https://cinerama.qodeinteractive.com/elementor/comments/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/cinerama.qodeinteractive.com\/elementor\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.5"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://cinerama.qodeinteractive.com/elementor/wp-includes/css/dist/block-library/style.min.css?ver=6.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-blocks-vendors-style-css'  href='https://cinerama.qodeinteractive.com/elementor/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=8.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-blocks-style-css'  href='https://cinerama.qodeinteractive.com/elementor/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=8.3.2' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='titan-adminbar-styles-css'  href='https://cinerama.qodeinteractive.com/elementor/wp-content/plugins/anti-spam/assets/css/admin-bar.css?ver=7.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://cinerama.qodeinteractive.com/elementor/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='rabbit_css-css'  href='https://export.qodethemes.com/_toolbar/assets/css/rbt-modules.css?ver=6.0.5' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='cinerama-edge-default-style-css'  href='https://cinerama.qodeinteractive.com/elementor/wp-content/themes/cinerama/style.css?ver=6.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='cinerama-edge-modules-css'  href='https://cinerama.qodeinteractive.com/elementor/wp-content/themes/cinerama/assets/css/modules.min.css?ver=6.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='edgtf-font-elegant-css'  href='https://cinerama.qodeinteractive.com/elementor/wp-content/themes/cinerama/framework/lib/icons-pack/elegant-icons/style.min.css?ver=6.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='edgtf-font-awesome-css'  href='https://cinerama.qodeinteractive.com/elementor/wp-content/themes/cinerama/framework/lib/icons-pack/font-awesome/css/fontawesome-all.min.css?ver=6.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='edgtf-ion-icons-css'  href='https://cinerama.qodeinteractive.com/elementor/wp-content/themes/cinerama/framework/lib/icons-pack/ion-icons/css/ionicons.min.css?ver=6.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelement-css'  href='https://cinerama.qodeinteractive.com/elementor/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.16' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='https://cinerama.qodeinteractive.com/elementor/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='cinerama-edge-woo-css'  href='https://cinerama.qodeinteractive.com/elementor/wp-content/themes/cinerama/assets/css/woocommerce.min.css?ver=6.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='cinerama-edge-woo-responsive-css'  href='https://cinerama.qodeinteractive.com/elementor/wp-content/themes/cinerama/assets/css/woocommerce-responsive.min.css?ver=6.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='cinerama-edge-style-dynamic-css'  href='https://cinerama.qodeinteractive.com/elementor/wp-content/themes/cinerama/assets/css/style_dynamic.css?ver=1634734686' type='text/css' media='all' />
+<link rel='stylesheet' id='cinerama-edge-modules-responsive-css'  href='https://cinerama.qodeinteractive.com/elementor/wp-content/themes/cinerama/assets/css/modules-responsive.min.css?ver=6.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='cinerama-edge-style-dynamic-responsive-css'  href='https://cinerama.qodeinteractive.com/elementor/wp-content/themes/cinerama/assets/css/style_dynamic_responsive.css?ver=1634734686' type='text/css' media='all' />
+<link rel='stylesheet' id='cinerama-edge-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Josefin+Sans%3A300%2C400%2C600%2C700%7CPlayfair+Display%3A300%2C400%2C600%2C700%7CBarlow+Condensed%3A300%2C400%2C600%2C700&#038;subset=latin-ext&#038;ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='cinerama-core-dashboard-style-css'  href='https://cinerama.qodeinteractive.com/elementor/wp-content/plugins/cinerama-core/core-dashboard/assets/css/core-dashboard.min.css?ver=6.0.5' type='text/css' media='all' />
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.5.18' async id='tp-tools-js'></script>
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.5.25' async id='revmin-js'></script>
+<link rel="https://api.w.org/" href="https://cinerama.qodeinteractive.com/elementor/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://cinerama.qodeinteractive.com/elementor/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://cinerama.qodeinteractive.com/elementor/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 6.0.5" />
+<meta name="generator" content="WooCommerce 6.9.2" />
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//cinerama.qodeinteractive.com/elementor/?wordfence_lh=1&hid=99A79C17F32C776B36B88AB3CAA011F4');
+</script>
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- GTM Container placement set to footer -->
+<script data-cfasync="false" data-pagespeed-no-defer>
+	var dataLayer_content = {"pagePostType":"404-error"};
+	dataLayer.push( dataLayer_content );
+</script>
+<script data-cfasync="false">
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5T772QJ');
+</script>
+<!-- End Google Tag Manager -->
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="generator" content="Powered by Slider Revolution 6.5.25 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="https://cinerama.qodeinteractive.com/elementor/wp-content/uploads/2018/05/cropped-favi-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://cinerama.qodeinteractive.com/elementor/wp-content/uploads/2018/05/cropped-favi-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://cinerama.qodeinteractive.com/elementor/wp-content/uploads/2018/05/cropped-favi-180x180.png" />
+<meta name="msapplication-TileImage" content="https://cinerama.qodeinteractive.com/elementor/wp-content/uploads/2018/05/cropped-favi-270x270.png" />
+<script>function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;
+				try {
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) || (e.l=="fullwidth" || e.layout=="fullwidth") ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);
+					if(e.layout==="fullscreen" || e.l==="fullscreen")
+						newh = Math.max(e.mh,window.RSIH);
+					else{
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,
+							sl;
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}
+					var el = document.getElementById(e.c);
+					if (el!==null && el) el.style.height = newh+"px";
+					el = document.getElementById(e.c+"_wrapper");
+					if (el!==null && el) {
+						el.style.height = newh+"px";
+						el.style.display = "block";
+					}
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}
+			//});
+		  };</script>
+		<style type="text/css" id="wp-custom-css">
+			.edgtf-ils-holder .edgtf-ils-item-link, .edgtf-interactive-image-with-text-holder .edgtf-iiwt-prefix-text {
+    font-family: Montserrat;
+    font-weight: 500;
+}
+.page-id-4001.edgtf-fixed-header-dark .edgtf-page-header .edgtf-fixed-wrapper.fixed .edgtf-menu-area {
+    background-color: transparent !important;
+}
+
+.page-id-4001.edgtf-fixed-header-dark .edgtf-page-header .edgtf-fixed-wrapper.fixed .edgtf-menu-area .edgtf-fullscreen-menu-opener {
+    color: #fff !important;
+}
+
+@media only screen and (min-width: 1921px) {
+    .edgtf-video-button-holder {
+        width: 100%;
+    }
+
+    .edgtf-video-button-image img {
+        width: 100%;
+    }
+	
+	.edgtf-interactive-image-with-text-holder .edgtf-iiwt-image img {
+		width: 100%;
+	}
+}
+
+.edgtf-parallax-row-holder{
+    background-size: cover;
+}
+
+.edgtf-title-holder.edgtf-bg-parallax{
+    background-size: cover;
+}
+
+.edgtf-fullscreen-menu-holder{
+	background-size: cover;
+}		</style>
+		</head>
+<body class="error404 theme-cinerama cinerama-core-2.1.3 woocommerce-no-js cinerama-ver-2.6 edgtf-grid-1300 edgtf-wide-dropdown-menu-content-in-grid edgtf-fixed-on-scroll edgtf-dropdown-animate-height edgtf-header-standard edgtf-menu-area-shadow-disable edgtf-menu-area-in-grid-shadow-disable edgtf-menu-area-border-disable edgtf-menu-area-in-grid-border-disable edgtf-logo-area-border-disable edgtf-woocommerce-columns-3 edgtf-woo-normal-space edgtf-woo-pl-info-below-image edgtf-woo-single-thumb-below-image edgtf-woo-single-has-pretty-photo edgtf-default-mobile-header edgtf-sticky-up-mobile-header elementor-default elementor-kit-3707" itemscope itemtype="http://schema.org/WebPage">
+	
+    <div class="edgtf-wrapper">
+        <div class="edgtf-wrapper-inner">
+            
+<header class="edgtf-page-header">
+		
+			<div class="edgtf-fixed-wrapper">
+				
+	<div class="edgtf-menu-area edgtf-menu-right">
+				
+						
+			<div class="edgtf-vertical-align-containers">
+				<div class="edgtf-position-left"><!--
+				 --><div class="edgtf-position-left-inner">
+						
+
+<div class="edgtf-logo-wrapper">
+    <a itemprop="url" href="https://cinerama.qodeinteractive.com/elementor/" style="height: 15px;">
+        <img itemprop="image" class="edgtf-normal-logo" src="https://cinerama.qodeinteractive.com/elementor/wp-content/uploads/2018/05/Logo-dark.png" width="280" height="30"  alt="logo"/>
+        <img itemprop="image" class="edgtf-dark-logo" src="https://cinerama.qodeinteractive.com/elementor/wp-content/uploads/2018/05/Logo-dark.png" width="280" height="30"  alt="dark logo"/>        <img itemprop="image" class="edgtf-light-logo" src="https://cinerama.qodeinteractive.com/elementor/wp-content/uploads/2018/05/Logo-light.png" width="280" height="30"  alt="light logo"/>    </a>
+</div>
+
+											</div>
+				</div>
+								<div class="edgtf-position-right"><!--
+				 --><div class="edgtf-position-right-inner">
+													
+<nav class="edgtf-main-menu edgtf-drop-down edgtf-default-nav">
+    <ul id="menu-main-menu" class="clearfix"><li id="nav-menu-item-101" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="#" class=""><span class="item_outer"><span class="item_text">Home</span><i class="edgtf-menu-arrow fa fa-angle-down"></i></span></a>
+<div class="second"><div class="inner"><ul>
+	<li id="nav-menu-item-4000" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home "><a href="https://cinerama.qodeinteractive.com/elementor/" class=""><span class="item_outer"><span class="item_text">Main Studio</span></span></a></li>
+	<li id="nav-menu-item-4023" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/interactive-home/" class=""><span class="item_outer"><span class="item_text">Interactive Home</span></span></a></li>
+	<li id="nav-menu-item-4238" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/film-festival/" class=""><span class="item_outer"><span class="item_text">Film Festival</span></span></a></li>
+	<li id="nav-menu-item-4291" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/carousel-home/" class=""><span class="item_outer"><span class="item_text">Carousel Home</span></span></a></li>
+	<li id="nav-menu-item-4170" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/movie-studio/" class=""><span class="item_outer"><span class="item_text">Movie Studio</span></span></a></li>
+	<li id="nav-menu-item-4289" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/movie-portfolio/" class=""><span class="item_outer"><span class="item_text">Movie Portfolio</span></span></a></li>
+	<li id="nav-menu-item-3120" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/blog-metro/" class=""><span class="item_outer"><span class="item_text">Blog Metro</span></span></a></li>
+	<li id="nav-menu-item-4655" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/director-home/" class=""><span class="item_outer"><span class="item_text">Director Home</span></span></a></li>
+	<li id="nav-menu-item-4501" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/movie-home/" class=""><span class="item_outer"><span class="item_text">Movie Home</span></span></a></li>
+	<li id="nav-menu-item-4516" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/fullscreen-slider/" class=""><span class="item_outer"><span class="item_text">Fullscreen Slider</span></span></a></li>
+	<li id="nav-menu-item-2541" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/landing/" class=""><span class="item_outer"><span class="item_text">Landing</span></span></a></li>
+</ul></div></div>
+</li>
+<li id="nav-menu-item-104" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="#" class=""><span class="item_outer"><span class="item_text">Pages</span><i class="edgtf-menu-arrow fa fa-angle-down"></i></span></a>
+<div class="second"><div class="inner"><ul>
+	<li id="nav-menu-item-4741" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/about-us/" class=""><span class="item_outer"><span class="item_text">About us</span></span></a></li>
+	<li id="nav-menu-item-4815" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/what-we-do/" class=""><span class="item_outer"><span class="item_text">What We Do</span></span></a></li>
+	<li id="nav-menu-item-4864" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/meet-the-team/" class=""><span class="item_outer"><span class="item_text">Meet The Team</span></span></a></li>
+	<li id="nav-menu-item-4889" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/our-work-flow/" class=""><span class="item_outer"><span class="item_text">Our Work Flow</span></span></a></li>
+	<li id="nav-menu-item-4960" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/contact-us/" class=""><span class="item_outer"><span class="item_text">Contact Us</span></span></a></li>
+	<li id="nav-menu-item-4984" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/faq-page/" class=""><span class="item_outer"><span class="item_text">FAQ Page</span></span></a></li>
+	<li id="nav-menu-item-662" class="menu-item menu-item-type-custom menu-item-object-custom "><a href="https://cinerama.qodeinteractive.com/elementor/error-page/" class=""><span class="item_outer"><span class="item_text">404 Error Page</span></span></a></li>
+</ul></div></div>
+</li>
+<li id="nav-menu-item-105" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub wide"><a href="#" class=""><span class="item_outer"><span class="item_text">Portfolio</span><i class="edgtf-menu-arrow fa fa-angle-down"></i></span></a>
+<div class="second"><div class="inner"><ul>
+	<li id="nav-menu-item-2199" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children sub"><a href="#" class=""><span class="item_outer"><span class="item_text">Types</span></span></a>
+	<ul>
+		<li id="nav-menu-item-2202" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/standard/" class=""><span class="item_outer"><span class="item_text">Standard</span></span></a></li>
+		<li id="nav-menu-item-2207" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/gallery/" class=""><span class="item_outer"><span class="item_text">Gallery</span></span></a></li>
+		<li id="nav-menu-item-3418" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/gallery-small-space/" class=""><span class="item_outer"><span class="item_text">Gallery Small Space</span></span></a></li>
+		<li id="nav-menu-item-3427" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/masonry/" class=""><span class="item_outer"><span class="item_text">Masonry</span></span></a></li>
+		<li id="nav-menu-item-2224" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/masonry-small-space/" class=""><span class="item_outer"><span class="item_text">Masonry Small Space</span></span></a></li>
+		<li id="nav-menu-item-2228" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/carousel/" class=""><span class="item_outer"><span class="item_text">Carousel</span></span></a></li>
+		<li id="nav-menu-item-2976" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/slider/" class=""><span class="item_outer"><span class="item_text">Slider</span></span></a></li>
+	</ul>
+</li>
+	<li id="nav-menu-item-2261" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children sub"><a href="#" class=""><span class="item_outer"><span class="item_text">Layouts</span></span></a>
+	<ul>
+		<li id="nav-menu-item-2260" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/two-columns/" class=""><span class="item_outer"><span class="item_text">Two Col.</span></span></a></li>
+		<li id="nav-menu-item-2258" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/three-columns/" class=""><span class="item_outer"><span class="item_text">Three Col.</span></span></a></li>
+		<li id="nav-menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/three-column-wide/" class=""><span class="item_outer"><span class="item_text">Three Col. Wide</span></span></a></li>
+		<li id="nav-menu-item-2427" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/four-columns/" class=""><span class="item_outer"><span class="item_text">Four Col.</span></span></a></li>
+		<li id="nav-menu-item-2426" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/four-column-wide/" class=""><span class="item_outer"><span class="item_text">Four Col. Wide</span></span></a></li>
+		<li id="nav-menu-item-2433" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/five-columns-wide/" class=""><span class="item_outer"><span class="item_text">Five Col. Wide</span></span></a></li>
+	</ul>
+</li>
+	<li id="nav-menu-item-2993" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children sub"><a href="#" class=""><span class="item_outer"><span class="item_text">Hover Types</span></span></a>
+	<ul>
+		<li id="nav-menu-item-2990" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/video-preview/" class=""><span class="item_outer"><span class="item_text">Video Preview</span></span></a></li>
+		<li id="nav-menu-item-2992" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/text-sliding/" class=""><span class="item_outer"><span class="item_text">Text Sliding</span></span></a></li>
+		<li id="nav-menu-item-2991" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/overlay/" class=""><span class="item_outer"><span class="item_text">Overlay</span></span></a></li>
+		<li id="nav-menu-item-2989" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/shader/" class=""><span class="item_outer"><span class="item_text">Shader</span></span></a></li>
+		<li id="nav-menu-item-3436" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/zoom-out/" class=""><span class="item_outer"><span class="item_text">Zoom Out</span></span></a></li>
+	</ul>
+</li>
+	<li id="nav-menu-item-681" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children sub"><a href="#" class=""><span class="item_outer"><span class="item_text">Video Portfolio Single</span></span></a>
+	<ul>
+		<li id="nav-menu-item-683" class="menu-item menu-item-type-post_type menu-item-object-portfolio-item "><a href="https://cinerama.qodeinteractive.com/elementor/portfolio-item/girls/" class=""><span class="item_outer"><span class="item_text">Custom 1</span></span></a></li>
+		<li id="nav-menu-item-728" class="menu-item menu-item-type-post_type menu-item-object-portfolio-item "><a href="https://cinerama.qodeinteractive.com/elementor/portfolio-item/retro/" class=""><span class="item_outer"><span class="item_text">Custom 2</span></span></a></li>
+		<li id="nav-menu-item-752" class="menu-item menu-item-type-post_type menu-item-object-portfolio-item "><a href="https://cinerama.qodeinteractive.com/elementor/portfolio-item/happiness/" class=""><span class="item_outer"><span class="item_text">Custom 3</span></span></a></li>
+		<li id="nav-menu-item-685" class="menu-item menu-item-type-post_type menu-item-object-portfolio-item "><a href="https://cinerama.qodeinteractive.com/elementor/portfolio-item/island/" class=""><span class="item_outer"><span class="item_text">Small Images</span></span></a></li>
+		<li id="nav-menu-item-826" class="menu-item menu-item-type-post_type menu-item-object-portfolio-item "><a href="https://cinerama.qodeinteractive.com/elementor/portfolio-item/action/" class=""><span class="item_outer"><span class="item_text">Small Slider</span></span></a></li>
+		<li id="nav-menu-item-827" class="menu-item menu-item-type-post_type menu-item-object-portfolio-item "><a href="https://cinerama.qodeinteractive.com/elementor/portfolio-item/new/" class=""><span class="item_outer"><span class="item_text">Large Images</span></span></a></li>
+		<li id="nav-menu-item-684" class="menu-item menu-item-type-post_type menu-item-object-portfolio-item "><a href="https://cinerama.qodeinteractive.com/elementor/portfolio-item/cafe-bar/" class=""><span class="item_outer"><span class="item_text">Large Slider</span></span></a></li>
+		<li id="nav-menu-item-2966" class="menu-item menu-item-type-post_type menu-item-object-portfolio-item "><a href="https://cinerama.qodeinteractive.com/elementor/portfolio-item/all-about-audry/" class=""><span class="item_outer"><span class="item_text">Gallery</span></span></a></li>
+	</ul>
+</li>
+</ul></div></div>
+</li>
+<li id="nav-menu-item-106" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="#" class=""><span class="item_outer"><span class="item_text">Blog</span><i class="edgtf-menu-arrow fa fa-angle-down"></i></span></a>
+<div class="second"><div class="inner"><ul>
+	<li id="nav-menu-item-3124" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/blog-masonry/" class=""><span class="item_outer"><span class="item_text">Masonry</span></span></a></li>
+	<li id="nav-menu-item-2537" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/blog-three-columns/" class=""><span class="item_outer"><span class="item_text">Simple List</span></span></a></li>
+	<li id="nav-menu-item-3405" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children sub"><a href="#" class=""><span class="item_outer"><span class="item_text">Standard</span></span></a>
+	<ul>
+		<li id="nav-menu-item-203" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/blog-right-sidebar/" class=""><span class="item_outer"><span class="item_text">Right Sidebar</span></span></a></li>
+		<li id="nav-menu-item-206" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/blog-left-sidebar/" class=""><span class="item_outer"><span class="item_text">Left Sidebar</span></span></a></li>
+		<li id="nav-menu-item-1833" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/blog-no-sidebar/" class=""><span class="item_outer"><span class="item_text">No Sidebar</span></span></a></li>
+	</ul>
+</li>
+	<li id="nav-menu-item-152" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children sub"><a href="#" class=""><span class="item_outer"><span class="item_text">Post Types</span></span></a>
+	<ul>
+		<li id="nav-menu-item-3207" class="menu-item menu-item-type-post_type menu-item-object-post "><a href="https://cinerama.qodeinteractive.com/elementor/rare-footage/" class=""><span class="item_outer"><span class="item_text">Custom Single</span></span></a></li>
+		<li id="nav-menu-item-153" class="menu-item menu-item-type-post_type menu-item-object-post "><a href="https://cinerama.qodeinteractive.com/elementor/darkerfilm-review/" class=""><span class="item_outer"><span class="item_text">Standard</span></span></a></li>
+		<li id="nav-menu-item-210" class="menu-item menu-item-type-post_type menu-item-object-post "><a href="https://cinerama.qodeinteractive.com/elementor/motion-pictures/" class=""><span class="item_outer"><span class="item_text">Gallery</span></span></a></li>
+		<li id="nav-menu-item-211" class="menu-item menu-item-type-post_type menu-item-object-post "><a href="https://cinerama.qodeinteractive.com/elementor/follow-this-link/" class=""><span class="item_outer"><span class="item_text">Link</span></span></a></li>
+		<li id="nav-menu-item-212" class="menu-item menu-item-type-post_type menu-item-object-post "><a href="https://cinerama.qodeinteractive.com/elementor/best-movie-quotes/" class=""><span class="item_outer"><span class="item_text">Quote</span></span></a></li>
+		<li id="nav-menu-item-217" class="menu-item menu-item-type-post_type menu-item-object-post "><a href="https://cinerama.qodeinteractive.com/elementor/movie-trailers/" class=""><span class="item_outer"><span class="item_text">Video</span></span></a></li>
+		<li id="nav-menu-item-224" class="menu-item menu-item-type-post_type menu-item-object-post "><a href="https://cinerama.qodeinteractive.com/elementor/movie-soundtrack/" class=""><span class="item_outer"><span class="item_text">Audio</span></span></a></li>
+	</ul>
+</li>
+</ul></div></div>
+</li>
+<li id="nav-menu-item-107" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="#" class=""><span class="item_outer"><span class="item_text">Shop</span><i class="edgtf-menu-arrow fa fa-angle-down"></i></span></a>
+<div class="second"><div class="inner"><ul>
+	<li id="nav-menu-item-836" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/shop/" class=""><span class="item_outer"><span class="item_text">List With Sidebar</span></span></a></li>
+	<li id="nav-menu-item-837" class="menu-item menu-item-type-post_type menu-item-object-product "><a href="https://cinerama.qodeinteractive.com/elementor/product/old-boy-song/" class=""><span class="item_outer"><span class="item_text">Single Product</span></span></a></li>
+	<li id="nav-menu-item-848" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children sub"><a href="#" class=""><span class="item_outer"><span class="item_text">Shop Layouts</span></span></a>
+	<ul>
+		<li id="nav-menu-item-849" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/shop-three-columns/" class=""><span class="item_outer"><span class="item_text">Three Col.</span></span></a></li>
+		<li id="nav-menu-item-852" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/shop-four-columns/" class=""><span class="item_outer"><span class="item_text">Four Col.</span></span></a></li>
+		<li id="nav-menu-item-855" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/shop-full-width/" class=""><span class="item_outer"><span class="item_text">Full Width</span></span></a></li>
+	</ul>
+</li>
+	<li id="nav-menu-item-838" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children sub"><a href="#" class=""><span class="item_outer"><span class="item_text">Shop Pages</span></span></a>
+	<ul>
+		<li id="nav-menu-item-841" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/my-account/" class=""><span class="item_outer"><span class="item_text">My account</span></span></a></li>
+		<li id="nav-menu-item-839" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/cart/" class=""><span class="item_outer"><span class="item_text">Cart</span></span></a></li>
+		<li id="nav-menu-item-840" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/checkout/" class=""><span class="item_outer"><span class="item_text">Checkout</span></span></a></li>
+	</ul>
+</li>
+</ul></div></div>
+</li>
+</ul></nav>
+
+												<div class="widget edgtf-social-icons-group-widget text-align-left">							<a class="edgtf-social-icon-widget-holder edgtf-icon-has-hover" data-hover-color="#545454" style="font-size: 13px;margin: 0 0 0 20px;"				   href="https://www.youtube.com/QodeInteractiveVideos" target="_blank">
+					<span class="edgtf-social-icon-widget fab fa-youtube"></span>				</a>
+										<a class="edgtf-social-icon-widget-holder edgtf-icon-has-hover" data-hover-color="#545454" style="font-size: 13px;margin: 0 0 0 20px;"				   href="https://www.instagram.com/qodeinteractive/" target="_blank">
+					<span class="edgtf-social-icon-widget fab fa-instagram"></span>				</a>
+										<a class="edgtf-social-icon-widget-holder edgtf-icon-has-hover" data-hover-color="#545454" style="font-size: 13px;margin: 0 0 0 20px;"				   href="https://twitter.com/QodeInteractive" target="_blank">
+					<span class="edgtf-social-icon-widget fab fa-twitter"></span>				</a>
+										<a class="edgtf-social-icon-widget-holder edgtf-icon-has-hover" data-hover-color="#545454" style="font-size: 13px;margin: 0 0 0 20px;"				   href="https://www.facebook.com/QodeInteractive/" target="_blank">
+					<span class="edgtf-social-icon-widget fab fa-facebook-f"></span>				</a>
+									</div>					</div>
+				</div>
+			</div>
+			
+			</div>
+			
+			</div>
+		
+		
+	</header>
+
+
+<header class="edgtf-mobile-header">
+		
+	<div class="edgtf-mobile-header-inner">
+		<div class="edgtf-mobile-header-holder">
+			<div class="edgtf-grid">
+				<div class="edgtf-vertical-align-containers">
+					<div class="edgtf-vertical-align-containers">
+						<div class="edgtf-position-left"><!--
+						 --><div class="edgtf-position-left-inner">
+								
+
+<div class="edgtf-mobile-logo-wrapper">
+    <a itemprop="url" href="https://cinerama.qodeinteractive.com/elementor/" style="height: 15px">
+        <img itemprop="image" src="https://cinerama.qodeinteractive.com/elementor/wp-content/uploads/2018/05/Logo-dark.png" width="280" height="30"  alt="Mobile Logo"/>
+    </a>
+</div>
+
+							</div>
+						</div>
+													<div class="edgtf-mobile-menu-opener edgtf-mobile-menu-opener-predefined">
+								<a href="javascript:void(0)">
+									<span class="edgtf-mobile-menu-icon">
+										<span class="edgtf-hm-lines"><span class="edgtf-hm-line edgtf-line-1"></span><span class="edgtf-hm-line edgtf-line-2"></span><span class="edgtf-hm-line edgtf-line-3"></span></span>									</span>
+																	</a>
+							</div>
+											</div>
+				</div>
+			</div>
+		</div>
+		
+    <nav class="edgtf-mobile-nav">
+        <div class="edgtf-grid">
+            <ul id="menu-main-menu-1" class=""><li id="mobile-menu-item-101" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="#" class=" edgtf-mobile-no-link"><span>Home</span></a><span class="mobile_arrow"><i class="edgtf-sub-arrow fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
+<ul class="sub_menu">
+	<li id="mobile-menu-item-4000" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home "><a href="https://cinerama.qodeinteractive.com/elementor/" class=""><span>Main Studio</span></a></li>
+	<li id="mobile-menu-item-4023" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/interactive-home/" class=""><span>Interactive Home</span></a></li>
+	<li id="mobile-menu-item-4238" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/film-festival/" class=""><span>Film Festival</span></a></li>
+	<li id="mobile-menu-item-4291" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/carousel-home/" class=""><span>Carousel Home</span></a></li>
+	<li id="mobile-menu-item-4170" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/movie-studio/" class=""><span>Movie Studio</span></a></li>
+	<li id="mobile-menu-item-4289" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/movie-portfolio/" class=""><span>Movie Portfolio</span></a></li>
+	<li id="mobile-menu-item-3120" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/blog-metro/" class=""><span>Blog Metro</span></a></li>
+	<li id="mobile-menu-item-4655" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/director-home/" class=""><span>Director Home</span></a></li>
+	<li id="mobile-menu-item-4501" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/movie-home/" class=""><span>Movie Home</span></a></li>
+	<li id="mobile-menu-item-4516" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/fullscreen-slider/" class=""><span>Fullscreen Slider</span></a></li>
+	<li id="mobile-menu-item-2541" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/landing/" class=""><span>Landing</span></a></li>
+</ul>
+</li>
+<li id="mobile-menu-item-104" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="#" class=" edgtf-mobile-no-link"><span>Pages</span></a><span class="mobile_arrow"><i class="edgtf-sub-arrow fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
+<ul class="sub_menu">
+	<li id="mobile-menu-item-4741" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/about-us/" class=""><span>About us</span></a></li>
+	<li id="mobile-menu-item-4815" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/what-we-do/" class=""><span>What We Do</span></a></li>
+	<li id="mobile-menu-item-4864" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/meet-the-team/" class=""><span>Meet The Team</span></a></li>
+	<li id="mobile-menu-item-4889" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/our-work-flow/" class=""><span>Our Work Flow</span></a></li>
+	<li id="mobile-menu-item-4960" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/contact-us/" class=""><span>Contact Us</span></a></li>
+	<li id="mobile-menu-item-4984" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/faq-page/" class=""><span>FAQ Page</span></a></li>
+	<li id="mobile-menu-item-662" class="menu-item menu-item-type-custom menu-item-object-custom "><a href="https://cinerama.qodeinteractive.com/elementor/error-page/" class=""><span>404 Error Page</span></a></li>
+</ul>
+</li>
+<li id="mobile-menu-item-105" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="#" class=" edgtf-mobile-no-link"><span>Portfolio</span></a><span class="mobile_arrow"><i class="edgtf-sub-arrow fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
+<ul class="sub_menu">
+	<li id="mobile-menu-item-2199" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="#" class=" edgtf-mobile-no-link"><span>Types</span></a><span class="mobile_arrow"><i class="edgtf-sub-arrow fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
+	<ul class="sub_menu">
+		<li id="mobile-menu-item-2202" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/standard/" class=""><span>Standard</span></a></li>
+		<li id="mobile-menu-item-2207" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/gallery/" class=""><span>Gallery</span></a></li>
+		<li id="mobile-menu-item-3418" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/gallery-small-space/" class=""><span>Gallery Small Space</span></a></li>
+		<li id="mobile-menu-item-3427" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/masonry/" class=""><span>Masonry</span></a></li>
+		<li id="mobile-menu-item-2224" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/masonry-small-space/" class=""><span>Masonry Small Space</span></a></li>
+		<li id="mobile-menu-item-2228" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/carousel/" class=""><span>Carousel</span></a></li>
+		<li id="mobile-menu-item-2976" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/slider/" class=""><span>Slider</span></a></li>
+	</ul>
+</li>
+	<li id="mobile-menu-item-2261" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="#" class=" edgtf-mobile-no-link"><span>Layouts</span></a><span class="mobile_arrow"><i class="edgtf-sub-arrow fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
+	<ul class="sub_menu">
+		<li id="mobile-menu-item-2260" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/two-columns/" class=""><span>Two Col.</span></a></li>
+		<li id="mobile-menu-item-2258" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/three-columns/" class=""><span>Three Col.</span></a></li>
+		<li id="mobile-menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/three-column-wide/" class=""><span>Three Col. Wide</span></a></li>
+		<li id="mobile-menu-item-2427" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/four-columns/" class=""><span>Four Col.</span></a></li>
+		<li id="mobile-menu-item-2426" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/four-column-wide/" class=""><span>Four Col. Wide</span></a></li>
+		<li id="mobile-menu-item-2433" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/five-columns-wide/" class=""><span>Five Col. Wide</span></a></li>
+	</ul>
+</li>
+	<li id="mobile-menu-item-2993" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="#" class=" edgtf-mobile-no-link"><span>Hover Types</span></a><span class="mobile_arrow"><i class="edgtf-sub-arrow fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
+	<ul class="sub_menu">
+		<li id="mobile-menu-item-2990" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/video-preview/" class=""><span>Video Preview</span></a></li>
+		<li id="mobile-menu-item-2992" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/text-sliding/" class=""><span>Text Sliding</span></a></li>
+		<li id="mobile-menu-item-2991" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/overlay/" class=""><span>Overlay</span></a></li>
+		<li id="mobile-menu-item-2989" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/shader/" class=""><span>Shader</span></a></li>
+		<li id="mobile-menu-item-3436" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/zoom-out/" class=""><span>Zoom Out</span></a></li>
+	</ul>
+</li>
+	<li id="mobile-menu-item-681" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="#" class=" edgtf-mobile-no-link"><span>Video Portfolio Single</span></a><span class="mobile_arrow"><i class="edgtf-sub-arrow fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
+	<ul class="sub_menu">
+		<li id="mobile-menu-item-683" class="menu-item menu-item-type-post_type menu-item-object-portfolio-item "><a href="https://cinerama.qodeinteractive.com/elementor/portfolio-item/girls/" class=""><span>Custom 1</span></a></li>
+		<li id="mobile-menu-item-728" class="menu-item menu-item-type-post_type menu-item-object-portfolio-item "><a href="https://cinerama.qodeinteractive.com/elementor/portfolio-item/retro/" class=""><span>Custom 2</span></a></li>
+		<li id="mobile-menu-item-752" class="menu-item menu-item-type-post_type menu-item-object-portfolio-item "><a href="https://cinerama.qodeinteractive.com/elementor/portfolio-item/happiness/" class=""><span>Custom 3</span></a></li>
+		<li id="mobile-menu-item-685" class="menu-item menu-item-type-post_type menu-item-object-portfolio-item "><a href="https://cinerama.qodeinteractive.com/elementor/portfolio-item/island/" class=""><span>Small Images</span></a></li>
+		<li id="mobile-menu-item-826" class="menu-item menu-item-type-post_type menu-item-object-portfolio-item "><a href="https://cinerama.qodeinteractive.com/elementor/portfolio-item/action/" class=""><span>Small Slider</span></a></li>
+		<li id="mobile-menu-item-827" class="menu-item menu-item-type-post_type menu-item-object-portfolio-item "><a href="https://cinerama.qodeinteractive.com/elementor/portfolio-item/new/" class=""><span>Large Images</span></a></li>
+		<li id="mobile-menu-item-684" class="menu-item menu-item-type-post_type menu-item-object-portfolio-item "><a href="https://cinerama.qodeinteractive.com/elementor/portfolio-item/cafe-bar/" class=""><span>Large Slider</span></a></li>
+		<li id="mobile-menu-item-2966" class="menu-item menu-item-type-post_type menu-item-object-portfolio-item "><a href="https://cinerama.qodeinteractive.com/elementor/portfolio-item/all-about-audry/" class=""><span>Gallery</span></a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="mobile-menu-item-106" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="#" class=" edgtf-mobile-no-link"><span>Blog</span></a><span class="mobile_arrow"><i class="edgtf-sub-arrow fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
+<ul class="sub_menu">
+	<li id="mobile-menu-item-3124" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/blog-masonry/" class=""><span>Masonry</span></a></li>
+	<li id="mobile-menu-item-2537" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/blog-three-columns/" class=""><span>Simple List</span></a></li>
+	<li id="mobile-menu-item-3405" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="#" class=" edgtf-mobile-no-link"><span>Standard</span></a><span class="mobile_arrow"><i class="edgtf-sub-arrow fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
+	<ul class="sub_menu">
+		<li id="mobile-menu-item-203" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/blog-right-sidebar/" class=""><span>Right Sidebar</span></a></li>
+		<li id="mobile-menu-item-206" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/blog-left-sidebar/" class=""><span>Left Sidebar</span></a></li>
+		<li id="mobile-menu-item-1833" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/blog-no-sidebar/" class=""><span>No Sidebar</span></a></li>
+	</ul>
+</li>
+	<li id="mobile-menu-item-152" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="#" class=" edgtf-mobile-no-link"><span>Post Types</span></a><span class="mobile_arrow"><i class="edgtf-sub-arrow fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
+	<ul class="sub_menu">
+		<li id="mobile-menu-item-3207" class="menu-item menu-item-type-post_type menu-item-object-post "><a href="https://cinerama.qodeinteractive.com/elementor/rare-footage/" class=""><span>Custom Single</span></a></li>
+		<li id="mobile-menu-item-153" class="menu-item menu-item-type-post_type menu-item-object-post "><a href="https://cinerama.qodeinteractive.com/elementor/darkerfilm-review/" class=""><span>Standard</span></a></li>
+		<li id="mobile-menu-item-210" class="menu-item menu-item-type-post_type menu-item-object-post "><a href="https://cinerama.qodeinteractive.com/elementor/motion-pictures/" class=""><span>Gallery</span></a></li>
+		<li id="mobile-menu-item-211" class="menu-item menu-item-type-post_type menu-item-object-post "><a href="https://cinerama.qodeinteractive.com/elementor/follow-this-link/" class=""><span>Link</span></a></li>
+		<li id="mobile-menu-item-212" class="menu-item menu-item-type-post_type menu-item-object-post "><a href="https://cinerama.qodeinteractive.com/elementor/best-movie-quotes/" class=""><span>Quote</span></a></li>
+		<li id="mobile-menu-item-217" class="menu-item menu-item-type-post_type menu-item-object-post "><a href="https://cinerama.qodeinteractive.com/elementor/movie-trailers/" class=""><span>Video</span></a></li>
+		<li id="mobile-menu-item-224" class="menu-item menu-item-type-post_type menu-item-object-post "><a href="https://cinerama.qodeinteractive.com/elementor/movie-soundtrack/" class=""><span>Audio</span></a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="mobile-menu-item-107" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="#" class=" edgtf-mobile-no-link"><span>Shop</span></a><span class="mobile_arrow"><i class="edgtf-sub-arrow fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
+<ul class="sub_menu">
+	<li id="mobile-menu-item-836" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/shop/" class=""><span>List With Sidebar</span></a></li>
+	<li id="mobile-menu-item-837" class="menu-item menu-item-type-post_type menu-item-object-product "><a href="https://cinerama.qodeinteractive.com/elementor/product/old-boy-song/" class=""><span>Single Product</span></a></li>
+	<li id="mobile-menu-item-848" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="#" class=" edgtf-mobile-no-link"><span>Shop Layouts</span></a><span class="mobile_arrow"><i class="edgtf-sub-arrow fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
+	<ul class="sub_menu">
+		<li id="mobile-menu-item-849" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/shop-three-columns/" class=""><span>Three Col.</span></a></li>
+		<li id="mobile-menu-item-852" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/shop-four-columns/" class=""><span>Four Col.</span></a></li>
+		<li id="mobile-menu-item-855" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/shop-full-width/" class=""><span>Full Width</span></a></li>
+	</ul>
+</li>
+	<li id="mobile-menu-item-838" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="#" class=" edgtf-mobile-no-link"><span>Shop Pages</span></a><span class="mobile_arrow"><i class="edgtf-sub-arrow fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
+	<ul class="sub_menu">
+		<li id="mobile-menu-item-841" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/my-account/" class=""><span>My account</span></a></li>
+		<li id="mobile-menu-item-839" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/cart/" class=""><span>Cart</span></a></li>
+		<li id="mobile-menu-item-840" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://cinerama.qodeinteractive.com/elementor/checkout/" class=""><span>Checkout</span></a></li>
+	</ul>
+</li>
+</ul>
+</li>
+</ul>        </div>
+    </nav>
+
+	</div>
+	
+	</header>
+
+			<a id='edgtf-back-to-top' href='#'>
+                <span class="edgtf-icon-stack"></span>
+			</a>
+			        
+            <div class="edgtf-content" style="margin-top: -90px">
+                <div class="edgtf-content-inner"><div class="edgtf-page-not-found">
+	
+	<p class="edgtf-404-tagline">
+		Error page	</p>
+
+	<h1 class="edgtf-404-title">
+		404	</h1>
+	
+	<h3 class="edgtf-404-subtitle">
+		Page can not be found	</h3>
+	
+	<p class="edgtf-404-text">
+		The page you are looking for does not exist. It may have been moved, or removed altogether. Perhaps you can return back to the site&#039;s homepage and see if you can find what you are looking for.	</p>
+	
+	<a itemprop="url" href="https://cinerama.qodeinteractive.com/elementor/" target="_self"  class="edgtf-btn edgtf-btn-medium edgtf-btn-outline edgtf-btn- edgtf-hover-animation"  >    <span class="edgtf-btn-text">Back to homepage</span>    </a></div>
+</div> <!-- close div.content_inner -->
+	</div>  <!-- close div.content -->
+					<footer class="edgtf-page-footer ">
+				<div class="edgtf-footer-top-holder">
+    <div class="edgtf-footer-top-inner edgtf-grid">
+        <div class="edgtf-grid-row edgtf-footer-top-alignment-left">
+                            <div class="edgtf-column-content edgtf-grid-col-3">
+                    <div id="nav_menu-2" class="widget edgtf-footer-column-1 widget_nav_menu"><div class="edgtf-widget-title-holder"><h6 class="edgtf-widget-title">edge’s production</h6></div><div class="menu-footer-custom-menu-container"><ul id="menu-footer-custom-menu" class="menu"><li id="menu-item-160" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-160"><a href="https://cinerama.qodeinteractive.com/elementor/about-us/">About Edge</a></li>
+<li id="menu-item-161" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-161"><a href="https://cinerama.qodeinteractive.com/elementor/standard">Latest Videos</a></li>
+<li id="menu-item-1860" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1860"><a href="https://cinerama.qodeinteractive.com/elementor/what-we-do">Studio Tour</a></li>
+<li id="menu-item-1861" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1861"><a href="https://cinerama.qodeinteractive.com/elementor/contact-us/">Press &#038; News</a></li>
+<li id="menu-item-1862" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1862"><a href="https://cinerama.qodeinteractive.com/elementor/faq-page">Help (FAQ)</a></li>
+</ul></div></div>                </div>
+                            <div class="edgtf-column-content edgtf-grid-col-3">
+                    <div id="text-3" class="widget edgtf-footer-column-2 widget_text"><div class="edgtf-widget-title-holder"><h6 class="edgtf-widget-title">About</h6></div>			<div class="textwidget"><p>Lorem ipsum dolor sit amet. Turel upn gravida nibh vel velit auctor aliquet aen sollic conseut ipsutis.</p>
+</div>
+		</div><div class="widget edgtf-social-icons-group-widget text-align-left">							<a class="edgtf-social-icon-widget-holder edgtf-icon-has-hover"  style="font-size: 13px;margin: -6px 20px 0 0;"				   href="https://www.youtube.com/QodeInteractiveVideos" target="_blank">
+					<span class="edgtf-social-icon-widget fab fa-youtube"></span>				</a>
+										<a class="edgtf-social-icon-widget-holder edgtf-icon-has-hover"  style="font-size: 13px;margin: -6px 20px 0 0;"				   href="https://www.instagram.com/qodeinteractive/" target="_blank">
+					<span class="edgtf-social-icon-widget fab fa-instagram"></span>				</a>
+										<a class="edgtf-social-icon-widget-holder edgtf-icon-has-hover"  style="font-size: 13px;margin: -6px 20px 0 0;"				   href="https://twitter.com/QodeInteractive" target="_blank">
+					<span class="edgtf-social-icon-widget fab fa-twitter"></span>				</a>
+										<a class="edgtf-social-icon-widget-holder edgtf-icon-has-hover"  style="font-size: 13px;margin: -6px 20px 0 0;"				   href="https://www.facebook.com/QodeInteractive/" target="_blank">
+					<span class="edgtf-social-icon-widget fab fa-facebook-f"></span>				</a>
+									</div>                </div>
+                            <div class="edgtf-column-content edgtf-grid-col-3">
+                    <div id="text-4" class="widget edgtf-footer-column-3 widget_text"><div class="edgtf-widget-title-holder"><h6 class="edgtf-widget-title">NEWS &#038; FILM UPDATES</h6></div>			<div class="textwidget"><p>Lorem Ipsner gravida nibh velml auctsi aliquet. Aene sollic conseut.</p>
+</div>
+		</div><div class="widget edgtf-separator-widget"><div class="edgtf-separator-holder clearfix  edgtf-separator-center edgtf-separator-normal">
+	<div class="edgtf-separator" style="border-color: #141414;border-style: solid;width: 2px;border-bottom-width: 5px;margin-top: 0px;margin-bottom: 0px"></div>
+</div>
+</div>		<div class="widget edgtf-contact-form-7-widget ">
+						<div role="form" class="wpcf7" id="wpcf7-f563-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/elementor/wp-content/themes/cinerama/assets/css/https:/cinerama.qodeinteractive.com/elementor/wp-content/uploads/2018/05/full-sc-menu-img.jpg#wpcf7-f563-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="563" />
+<input type="hidden" name="_wpcf7_version" value="5.6.3" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f563-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+</div>
+<div class="edgtf-two-columns-form-without-space">
+<div class="edgtf-column-left">
+	<span class="wpcf7-form-control-wrap" data-name="your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Your email" /></span>
+    </div>
+<div class="edgtf-column-right">
+	<button type="submit" class="edgtf-btn submit"><i class="fab fa-telegram-plane"></i></button>
+    </div>
+</div>
+<div class="wpcf7-response-output" aria-hidden="true"></div></form></div>		</div>
+		                </div>
+                            <div class="edgtf-column-content edgtf-grid-col-3">
+                    <div id="edgtf_instagram_widget-3" class="widget edgtf-footer-column-4 widget_edgtf_instagram_widget"><div class="edgtf-widget-title-holder"><h6 class="edgtf-widget-title">Follow on Instagram</h6></div>			<ul class="edgtf-instagram-feed clearfix edgtf-col-3 edgtf-instagram-gallery edgtf-small-space" >
+									<li>
+						<a href="https://www.instagram.com/p/CL4BOXTFNd7/" target="_blank">
+							                                <span class="edgtf-instagram-icon"><i class="fab fa-instagram"></i></span>
+														<img src="https://scontent-atl3-1.cdninstagram.com/v/t51.29350-15/151337461_466632694520679_217955715953450234_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=pn9rMTmtglcAX9lzMeI&amp;_nc_ht=scontent-atl3-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;oh=00_AfBnz-TDsx9005VB2YnFbZSD8-A7-bb-KTNh59ONzJkPsw&amp;oe=65C6834C" alt="" />						</a>
+					</li>
+									<li>
+						<a href="https://www.instagram.com/p/CL4BM-NFtMx/" target="_blank">
+							                                <span class="edgtf-instagram-icon"><i class="fab fa-instagram"></i></span>
+														<img src="https://scontent-atl3-1.cdninstagram.com/v/t51.29350-15/153999962_1224667504597825_2555485865767188017_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=Mb__qoq35sgAX_saOkz&amp;_nc_ht=scontent-atl3-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;oh=00_AfApz7lzOAbut-Q_bRv4JIMOb5Zm8iyyoSLL99kNEeaz6Q&amp;oe=65C7DAC5" alt="" />						</a>
+					</li>
+									<li>
+						<a href="https://www.instagram.com/p/CL4BLf2lH60/" target="_blank">
+							                                <span class="edgtf-instagram-icon"><i class="fab fa-instagram"></i></span>
+														<img src="https://scontent-atl3-1.cdninstagram.com/v/t51.29350-15/155456818_1106075096470377_8417812318356054176_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=KPesUrD2QrcAX-CD4YO&amp;_nc_ht=scontent-atl3-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;oh=00_AfDWh3LoZKDr5V1tUj22IfUGrimZ-CIGEHdXkYhpx1xftQ&amp;oe=65C77C70" alt="" />						</a>
+					</li>
+									<li>
+						<a href="https://www.instagram.com/p/CL4BJt_lH34/" target="_blank">
+							                                <span class="edgtf-instagram-icon"><i class="fab fa-instagram"></i></span>
+														<img src="https://scontent-atl3-1.cdninstagram.com/v/t51.29350-15/154810596_470146157695793_1720950399745734797_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=tr_ZyhZz7cQAX-viDEJ&amp;_nc_ht=scontent-atl3-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;oh=00_AfB1Jasks_aSvxTPWjlbtll1zs7O0UiaHJ-FGgeGNvZ_ZA&amp;oe=65C737D1" alt="" />						</a>
+					</li>
+									<li>
+						<a href="https://www.instagram.com/p/CL4A4n0lHeb/" target="_blank">
+							                                <span class="edgtf-instagram-icon"><i class="fab fa-instagram"></i></span>
+														<img src="https://scontent-atl3-1.cdninstagram.com/v/t51.29350-15/153752609_3708149932554439_2922754876641215817_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=4EnKlRuVOkQAX9Zpu1r&amp;_nc_ht=scontent-atl3-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;oh=00_AfDhnCac58emXpZmDNkGMvBh2nZ3esEAVBQRUvpBHE7HDQ&amp;oe=65C6BC8D" alt="" />						</a>
+					</li>
+									<li>
+						<a href="https://www.instagram.com/p/CL4A3N4lJ94/" target="_blank">
+							                                <span class="edgtf-instagram-icon"><i class="fab fa-instagram"></i></span>
+														<img src="https://scontent-atl3-1.cdninstagram.com/v/t51.29350-15/154950242_363170098010295_8387065744565933361_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=ZLYvlFxPx70AX9IkR3P&amp;_nc_ht=scontent-atl3-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;oh=00_AfD6JKoLjLrNK3GdHm2ucuUkB5g1qCgBAHAxcxDqhL83Tg&amp;oe=65C62B9D" alt="" />						</a>
+					</li>
+							</ul>
+		</div>                </div>
+                    </div>
+    </div>
+</div><div class="edgtf-footer-bottom-holder">
+    <div class="edgtf-footer-bottom-inner edgtf-grid">
+        <div class="edgtf-grid-row ">
+                            <div class="edgtf-grid-col-4">
+                                    </div>
+                            <div class="edgtf-grid-col-4">
+                    <div id="text-6" class="widget edgtf-footer-bottom-column-2 widget_text">			<div class="textwidget"><p>© 2018 <a href="https://qodeinteractive.com/" target="_blank" rel="noopener">Qode Interactive</a>, All Rights Reserved</p>
+</div>
+		</div>                </div>
+                            <div class="edgtf-grid-col-4">
+                                    </div>
+                    </div>
+    </div>
+</div>			</footer>
+			</div> <!-- close div.edgtf-wrapper-inner  -->
+</div> <!-- close div.edgtf-wrapper -->
+
+		<script>
+			window.RS_MODULES = window.RS_MODULES || {};
+			window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+			window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+			window.RS_MODULES.defered = false;
+			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+			window.RS_MODULES.type = 'compiled';
+		</script>
+		<div class="rbt-toolbar" data-theme="Cinerama" data-featured="" data-button-position="25%" data-button-horizontal="right" data-button-alt="no" ></div>
+<!-- GTM Container placement set to footer -->
+<!-- Google Tag Manager (noscript) -->
+				<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5T772QJ" height="0" width="0" style="display:none;visibility:hidden" aria-hidden="true"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://cinerama.qodeinteractive.com/elementor/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.5.25' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.3' id='swv-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/cinerama.qodeinteractive.com\/elementor\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.3' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://export.qodethemes.com/_toolbar/assets/js/rbt-modules.js?ver=6.0.5' id='rabbit_js-js'></script>
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.6.9.2' id='jquery-blockui-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/elementor\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/elementor\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/cinerama.qodeinteractive.com\/elementor\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=6.9.2' id='wc-add-to-cart-js'></script>
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.6.9.2' id='js-cookie-js'></script>
+<script type='text/javascript' id='woocommerce-js-extra'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/elementor\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/elementor\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=6.9.2' id='woocommerce-js'></script>
+<script type='text/javascript' id='wc-cart-fragments-js-extra'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/elementor\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/elementor\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_cd1da4780132620cdc9e30f476ad0f7e","fragment_name":"wc_fragments_cd1da4780132620cdc9e30f476ad0f7e","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=6.9.2' id='wc-cart-fragments-js'></script>
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.16.1' id='gtm4wp-form-move-tracker-js'></script>
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-includes/js/jquery/ui/tabs.min.js?ver=1.13.1' id='jquery-ui-tabs-js'></script>
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-includes/js/jquery/ui/accordion.min.js?ver=1.13.1' id='jquery-ui-accordion-js'></script>
+<script type='text/javascript' id='mediaelement-core-js-before'>
+var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+</script>
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.16' id='mediaelement-core-js'></script>
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=6.0.5' id='mediaelement-migrate-js'></script>
+<script type='text/javascript' id='mediaelement-js-extra'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/elementor\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=6.0.5' id='wp-mediaelement-js'></script>
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-content/themes/cinerama/assets/js/modules/plugins/jquery.appear.js?ver=6.0.5' id='appear-js'></script>
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-content/themes/cinerama/assets/js/modules/plugins/modernizr.min.js?ver=6.0.5' id='modernizr-js'></script>
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-includes/js/hoverIntent.min.js?ver=1.10.2' id='hoverIntent-js'></script>
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-content/themes/cinerama/assets/js/modules/plugins/jquery.plugin.js?ver=6.0.5' id='jquery-plugin-js'></script>
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-content/themes/cinerama/assets/js/modules/plugins/owl.carousel.min.js?ver=6.0.5' id='owl-carousel-js'></script>
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-content/themes/cinerama/assets/js/modules/plugins/jquery.waypoints.min.js?ver=6.0.5' id='waypoints-js'></script>
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-content/themes/cinerama/assets/js/modules/plugins/fluidvids.min.js?ver=6.0.5' id='fluidvids-js'></script>
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-content/themes/cinerama/assets/js/modules/plugins/jquery.prettyPhoto.js?ver=6.0.5' id='prettyphoto-js'></script>
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-content/themes/cinerama/assets/js/modules/plugins/perfect-scrollbar.jquery.min.js?ver=6.0.5' id='perfect-scrollbar-js'></script>
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-content/themes/cinerama/assets/js/modules/plugins/ScrollToPlugin.min.js?ver=6.0.5' id='ScrollToPlugin-js'></script>
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-content/themes/cinerama/assets/js/modules/plugins/parallax.min.js?ver=6.0.5' id='parallax-js'></script>
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-content/themes/cinerama/assets/js/modules/plugins/jquery.waitforimages.js?ver=6.0.5' id='waitforimages-js'></script>
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-content/themes/cinerama/assets/js/modules/plugins/jquery.easing.1.3.js?ver=6.0.5' id='jquery-easing-1.3-js'></script>
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-content/themes/cinerama/assets/js/modules/plugins/isotope.pkgd.min.js?ver=6.0.5' id='isotope-js'></script>
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-content/themes/cinerama/assets/js/modules/plugins/packery-mode.pkgd.min.js?ver=6.0.5' id='packery-js'></script>
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-content/themes/cinerama/assets/js/modules/plugins/jquery.geocomplete.min.js?ver=6.0.5' id='geocomplete-js'></script>
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-content/plugins/cinerama-core/shortcodes/countdown/assets/js/plugins/jquery.countdown.min.js?ver=6.0.5' id='countdown-js'></script>
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-content/plugins/cinerama-core/shortcodes/counter/assets/js/plugins/counter.js?ver=6.0.5' id='counter-js'></script>
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-content/plugins/cinerama-core/shortcodes/counter/assets/js/plugins/absoluteCounter.min.js?ver=6.0.5' id='absoluteCounter-js'></script>
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-content/plugins/cinerama-core/shortcodes/custom-font/assets/js/plugins/typed.js?ver=6.0.5' id='typed-js'></script>
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-content/plugins/cinerama-core/shortcodes/full-screen-sections/assets/js/plugins/jquery.fullPage.min.js?ver=6.0.5' id='fullPage-js'></script>
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-content/plugins/cinerama-core/shortcodes/pie-chart/assets/js/plugins/easypiechart.js?ver=6.0.5' id='easypiechart-js'></script>
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-content/plugins/woocommerce/assets/js/select2/select2.full.min.js?ver=4.0.3-wc.6.9.2' id='select2-js'></script>
+<script type='text/javascript' id='cinerama-edge-google-map-api-js-before'>
+window.edgtfEmptyCallback = function () {};
+</script>
+<script type='text/javascript' src='//maps.googleapis.com/maps/api/js?key=AIzaSyAjT8VFYE-iwLb058vGoeRPneUNAI5RIKU&#038;callback=edgtfEmptyCallback&#038;ver=6.0.5' id='cinerama-edge-google-map-api-js'></script>
+<script type='text/javascript' id='cinerama-edge-modules-js-extra'>
+/* <![CDATA[ */
+var edgtfGlobalVars = {"vars":{"edgtfAddForAdminBar":0,"edgtfElementAppearAmount":-100,"edgtfAjaxUrl":"https:\/\/cinerama.qodeinteractive.com\/elementor\/wp-admin\/admin-ajax.php","edgtfStickyHeaderHeight":0,"edgtfStickyHeaderTransparencyHeight":75,"edgtfTopBarHeight":0,"edgtfLogoAreaHeight":0,"edgtfMenuAreaHeight":90,"edgtfMobileHeaderHeight":70}};
+var edgtfPerPageVars = {"vars":{"edgtfMobileHeaderHeight":70,"edgtfStickyScrollAmount":0,"edgtfHeaderTransparencyHeight":90,"edgtfHeaderVerticalWidth":0}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cinerama.qodeinteractive.com/elementor/wp-content/themes/cinerama/assets/js/modules.min.js?ver=6.0.5' id='cinerama-edge-modules-js'></script>
+</body>
+</html>
